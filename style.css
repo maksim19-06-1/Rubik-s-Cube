@@ -57,11 +57,10 @@ body{
 }
 
 .wall div{
-    height: 32.333%;
-    width: 32.333%;
-    
+    height: 31.333%;
+    width: 31.333%;
     position: relative;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 
 .wall:nth-child(1){
